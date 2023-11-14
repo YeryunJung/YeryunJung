@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeryun Jung</h1>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 📝 I regularly write articles on **[https://velog.io/@2bytes](https://velog.io/@2bytes)**
 
