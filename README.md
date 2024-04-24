@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 📝 I regularly write articles on **[https://velog.io/@2bytes](https://velog.io/@2bytes)**
-
 - 📫 How to reach me **yryn2016@gmail.com**
 
 <br />
